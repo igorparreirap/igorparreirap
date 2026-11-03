@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%7C+PUC+Goi%C3%A1s;Android+%7C+Kotlin+%7C+Jetpack+Compose;React+%7C+TypeScript+%7C+Python+%7C+Java;Testes+automatizados+%2B+CI%2FCD+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorparreirap&label=Profile%20views&color=00FF9C&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/igorparreirap?label=Followers&style=flat&color=00FF9C" alt="followers" />
-</p>
 
 ---
 
