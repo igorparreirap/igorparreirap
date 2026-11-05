@@ -15,4 +15,4 @@ Currently building Prisma, a Windows file converter in Python, and learning Dock
 
 Day to day: Python, Java, Kotlin, TypeScript, React, SQL (SQLite, MySQL, PostgreSQL), pytest, JUnit, Vitest, Git, GitHub Actions, PowerShell.
 
-[LinkedIn](https://www.linkedin.com/in/igorparreirap) · igorparreirap@gmail.com
+[igorparreirap.dev](https://igorparreirap.dev) · [LinkedIn](https://www.linkedin.com/in/igorparreirap) · igorparreirap@gmail.com
